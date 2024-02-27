@@ -1,0 +1,7 @@
+,courses,Fee,Duration,Discount
+0,spark,2000,30days,1
+1,pyspark,1200,40days,2
+2,hadoop,23400,20days,3
+3,python,2400,80days,4
+4,sql,1455,10days,5
+5,pandas,1256,1200days,67
